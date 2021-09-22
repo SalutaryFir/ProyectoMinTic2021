@@ -6,8 +6,7 @@ f esto es una casa
 error numero 2
 Error
 
-------
-aqui hay un error
+
 +++++++++++++
 
 esta es una nueva prueba de cambio
